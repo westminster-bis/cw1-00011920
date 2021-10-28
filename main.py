@@ -4,3 +4,5 @@ student_name = 'Khurrambek'
 student_address = "yunusabad"
 
 print(student_name + " " + student_id)
+# sdjflsajdflasjdflkjsdklf
+# ajsdfljsldfjlasdkf
